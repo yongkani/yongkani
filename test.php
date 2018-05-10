@@ -1,2 +1,5 @@
-<?php phpinfo(); echo 'tset';
+<?php phpinfo(); 
+echo 'tset';
+die();
+echo 'tset';
 ?>
